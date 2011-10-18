@@ -1,0 +1,182 @@
+2011-08-24 11:15:00 - PHP Notice:  Undefined index:  bits in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/system/library/image.php on line 16
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:36:36 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:37:50 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 49
+2011-08-24 11:41:47 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/account.tpl on line 29
+2011-08-24 11:41:55 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/account.tpl on line 29
+2011-08-24 11:53:03 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/account.tpl on line 29
+2011-08-24 11:57:40 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/account.tpl on line 29
+2011-08-24 11:58:46 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/banner.tpl on line 31
+2011-08-24 12:01:01 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/special.tpl on line 31
+2011-08-24 12:01:19 - PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/special.tpl on line 31
+2011-08-24 13:47:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 50
+2011-08-24 13:47:21 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 50
+2011-08-24 13:47:21 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 50
+2011-08-24 13:47:21 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 50
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:48:20 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:53:50 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_left.php on line 50
+2011-08-24 13:53:50 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/column_right.php on line 50
+2011-08-24 13:53:50 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_top.php on line 50
+2011-08-24 13:53:50 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/catalog/controller/common/content_bottom.php on line 50
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-08-24 13:54:10 - PHP Notice:  Undefined index:  layout_id in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/module/carousel.tpl on line 54
+2011-09-10 15:57:17 - PHP Warning:  unlink(/hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/system/cache/cache.product.bestseller.2.0.5.1315673837) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/system/library/cache.php on line 48
+2011-09-10 15:57:18 - PHP Warning:  unlink(/hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/system/cache/cache.language.1315673838) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/system/library/cache.php on line 48
+2011-09-26 13:51:05 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:51:05 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:51:30 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:51:30 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:51:35 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:51:35 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:51:44 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:51:44 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:53:24 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:53:24 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:54:26 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:54:26 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:54:31 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:54:31 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-09-26 13:54:41 - PHP Notice:  Undefined variable: entry_cod_limit in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 65
+2011-09-26 13:54:41 - PHP Notice:  Undefined variable: entry_cod_limit_period in /hermes/bosweb/web193/b1934/ipg.arabianlandcom/store4/admin/view/template/payment/cod.tpl on line 69
+2011-10-08 23:05:28 - PHP Notice:  Undefined variable: entry_cod_daily in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 71
+2011-10-08 23:06:32 - PHP Notice:  Undefined variable: entry_cod_daily in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 71
+2011-10-08 23:59:32 - PHP Notice:  Undefined index: payment_address in D:\xampp\htdocs\arabian-land.com\catalog\controller\checkout\address.php on line 20
+2011-10-08 23:59:32 - PHP Notice:  Undefined index: payment_address in D:\xampp\htdocs\arabian-land.com\catalog\controller\checkout\address.php on line 33
+2011-10-08 23:59:35 - PHP Notice:  Undefined index: payment_address in D:\xampp\htdocs\arabian-land.com\catalog\controller\checkout\address.php on line 20
+2011-10-08 23:59:35 - PHP Notice:  Undefined index: payment_address in D:\xampp\htdocs\arabian-land.com\catalog\controller\checkout\address.php on line 33
+2011-10-09 0:21:20 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-09 0:21:21 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-09 0:21:22 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-09 0:53:37 - PHP Notice:  Undefined index: payment_methods in D:\xampp\htdocs\arabian-land.com\catalog\controller\checkout\payment.php on line 4
+2011-10-09 0:53:51 - PHP Notice:  Undefined index: payment_methods in D:\xampp\htdocs\arabian-land.com\catalog\controller\checkout\payment.php on line 4
+2011-10-09 3:09:54 - PHP Notice:  Undefined variable: entry_cod_limit_weekly in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 72
+2011-10-09 3:09:54 - PHP Notice:  Undefined variable: entry_cod_limit_monthly in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 73
+2011-10-09 4:31:04 - PHP Notice:  Undefined variable: status in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 8
+2011-10-09 4:31:09 - PHP Notice:  Undefined variable: status in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 8
+2011-10-09 4:33:37 - PHP Notice:  Undefined index: value in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 20
+2011-10-09 4:43:13 - PHP Notice:  Undefined variable: cod_limit in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 66
+2011-10-09 4:43:13 - PHP Notice:  Undefined variable: cod_current_value in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 71
+2011-10-09 4:43:13 - PHP Notice:  Undefined variable: cod_limit_period in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 77
+2011-10-09 4:43:13 - PHP Notice:  Undefined variable: cod_limit_period in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 78
+2011-10-09 4:43:13 - PHP Notice:  Undefined variable: cod_limit_period in D:\xampp\htdocs\arabian-land.com\admin\view\template\payment\cod.tpl on line 79
+2011-10-10 3:02:14 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:02:15 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:02:16 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:09:40 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:09:41 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:09:42 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:22:35 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:22:36 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 3:22:37 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\arabian-land.com\system\library\mail.php on line 156
+2011-10-10 5:10:28 - PHP Notice:  Undefined index: order_id in D:\xampp\htdocs\arabian-land.com\catalog\controller\payment\cod.php on line 20
+2011-10-10 5:11:34 - PHP Notice:  Undefined variable: action in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\payment\cod.tpl on line 10
+2011-10-10 5:11:38 - PHP Notice:  Undefined variable: action in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\payment\cod.tpl on line 10
+2011-10-10 5:11:48 - PHP Notice:  Undefined variable: action in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\payment\cod.tpl on line 10
+2011-10-10 5:47:00 - PHP Notice:  Undefined variable: cod_query in D:\xampp\htdocs\arabian-land.com\catalog\controller\payment\cod.php on line 38
+2011-10-10 5:47:00 - PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\arabian-land.com\catalog\controller\payment\cod.php on line 38
+2011-10-10 18:14:01 - PHP Notice:  A non well formed numeric value encountered in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 24
+2011-10-10 18:14:01 - PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 29
+2011-10-10 18:15:15 - PHP Notice:  A non well formed numeric value encountered in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 24
+2011-10-10 18:15:48 - PHP Notice:  A non well formed numeric value encountered in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 24
+2011-10-10 18:34:01 - PHP Notice:  Undefined index: cod_reset_current_value in D:\xampp\htdocs\arabian-land.com\admin\controller\payment\cod.php on line 17
+2011-10-10 18:34:47 - PHP Notice:  Undefined index: cod_reset_current_value in D:\xampp\htdocs\arabian-land.com\admin\controller\payment\cod.php on line 17
+2011-10-10 18:34:50 - PHP Notice:  Undefined index: cod_reset_current_value in D:\xampp\htdocs\arabian-land.com\admin\controller\payment\cod.php on line 17
+2011-10-10 19:14:59 - PHP Notice:  Undefined variable: today in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 41
+2011-10-10 19:37:04 - PHP Notice:  Undefined variable: cod_current_value in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 35
+2011-10-10 19:37:35 - PHP Notice:  Undefined variable: cod_current_value in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 35
+2011-10-10 19:37:59 - PHP Notice:  Undefined variable: cod_current_value in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 35
+2011-10-10 19:38:23 - PHP Notice:  Undefined variable: cod_current_value in D:\xampp\htdocs\arabian-land.com\catalog\model\payment\cod.php on line 35
+2011-10-18 19:02:54 - PHP Notice:  Undefined variable: newsletter in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\account\account.tpl on line 34
+2011-10-18 19:03:17 - PHP Notice:  Undefined variable: newsletter in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\account\account.tpl on line 34
+2011-10-18 19:03:52 - PHP Notice:  Undefined variable: newsletter in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\account\account.tpl on line 34
+2011-10-18 19:04:16 - PHP Notice:  Undefined variable: newsletter in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\default\template\account\account.tpl on line 34
+2011-10-18 19:31:36 - PHP Warning:  require(D:\xampp\htdocs\arabian-land.com\catalog\view\theme) [<a href='function.require'>function.require</a>]: failed to open stream: Permission denied in D:\xampp\htdocs\arabian-land.com\system\engine\controller.php on line 62
+2011-10-18 19:35:35 - PHP Notice:  Undefined variable: breadcrumbs in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 4
+2011-10-18 19:35:35 - PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 4
+2011-10-18 19:35:35 - PHP Notice:  Undefined variable: country_id in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 12
+2011-10-18 19:35:35 - PHP Notice:  Undefined variable: zone_id in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 12
+2011-10-18 19:38:13 - PHP Notice:  Undefined variable: heading_title in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 8
+2011-10-18 19:38:13 - PHP Notice:  Undefined variable: country_id in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 12
+2011-10-18 19:38:13 - PHP Notice:  Undefined variable: zone_id in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 12
+2011-10-18 19:38:30 - PHP Notice:  Undefined variable: country_id in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 12
+2011-10-18 19:38:30 - PHP Notice:  Undefined variable: zone_id in D:\xampp\htdocs\arabian-land.com\catalog\view\theme\octheme2\template\product\product_form.tpl on line 12

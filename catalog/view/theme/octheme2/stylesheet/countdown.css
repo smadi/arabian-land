@@ -1,0 +1,11 @@
+.countTable {
+        border:1px solid #ccc;
+        border-collapse:collapse;
+    	}
+    th {
+        padding:5px;
+    	background-image: url('../image/hbg_red.gif');
+    	background-repeat: repeat-x;
+        color:#FFF;
+		font-size:14px;	
+	}	

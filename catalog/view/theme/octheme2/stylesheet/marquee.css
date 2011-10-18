@@ -1,0 +1,42 @@
+/* marquee */
+#marquee {
+}
+#marquee table {
+	width: 50%;
+}
+#marquee th {
+	vertical-align: top;
+	width: 18%;
+	padding-top: 3px;
+	padding-left: 10px;
+	font-size: 16px;
+	text-align: right;
+}
+#marquee td {
+	vertical-align: middle;
+	font-weight: bold;
+}
+ul.marquee {
+	display: block;
+	padding: 0px;
+	margin: 0px 15px 10px 5px;
+	list-style: none;
+	line-height: 1;
+	position: relative;
+	overflow: hidden;
+	height: 20px;
+	border: 1px solid #DBDEE1;
+	background: #F8F8F8;
+}
+ul.marquee li {
+	position: absolute;
+	top: -999em;
+	left: 0;
+	display: block;
+	white-space: nowrap;
+	padding: 3px 5px;
+	/* style for marquee text */
+	font-size: 14px;
+	font-weight: bold;
+	color: #003A88;
+}
