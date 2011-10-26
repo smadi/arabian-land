@@ -573,8 +573,53 @@ class ControllerProductProduct extends Controller {
  * @name Mohammad Abuelezz < aboel3zz at gmail dot com>
  */
 public function insert() {	
-    	$this->language->load('product/product');
-
+    	$this->language->load('product/insert');
+		
+		$this->data['entry_name'] = $this->language->get('entry_name');
+		$this->data['entry_meta_description'] = $this->language->get('entry_meta_description');
+		$this->data['entry_meta_keyword'] = $this->language->get('entry_meta_keyword');
+		$this->data['entry_description'] = $this->language->get('entry_description');
+		$this->data['entry_store'] = $this->language->get('entry_store');
+		$this->data['entry_keyword'] = $this->language->get('entry_keyword');
+    	$this->data['entry_model'] = $this->language->get('entry_model');
+		$this->data['entry_sku'] = $this->language->get('entry_sku');
+		$this->data['entry_upc'] = $this->language->get('entry_upc');
+		$this->data['entry_location'] = $this->language->get('entry_location');
+		$this->data['entry_minimum'] = $this->language->get('entry_minimum');
+		$this->data['entry_manufacturer'] = $this->language->get('entry_manufacturer');
+    	$this->data['entry_shipping'] = $this->language->get('entry_shipping');
+    	$this->data['entry_date_available'] = $this->language->get('entry_date_available');
+    	$this->data['entry_quantity'] = $this->language->get('entry_quantity');
+		$this->data['entry_stock_status'] = $this->language->get('entry_stock_status');
+    	$this->data['entry_tax_class'] = $this->language->get('entry_tax_class');
+    	$this->data['entry_price'] = $this->language->get('entry_price');
+		$this->data['entry_points'] = $this->language->get('entry_points');
+		$this->data['entry_option_points'] = $this->language->get('entry_option_points');
+		$this->data['entry_subtract'] = $this->language->get('entry_subtract');
+    	$this->data['entry_weight_class'] = $this->language->get('entry_weight_class');
+    	$this->data['entry_weight'] = $this->language->get('entry_weight');
+		$this->data['entry_dimension'] = $this->language->get('entry_dimension');
+		$this->data['entry_length'] = $this->language->get('entry_length');
+    	$this->data['entry_image'] = $this->language->get('entry_image');
+    	$this->data['entry_download'] = $this->language->get('entry_download');
+    	$this->data['entry_category'] = $this->language->get('entry_category');
+		$this->data['entry_related'] = $this->language->get('entry_related');
+		$this->data['entry_attribute'] = $this->language->get('entry_attribute');
+		$this->data['entry_text'] = $this->language->get('entry_text');
+		$this->data['entry_option'] = $this->language->get('entry_option');
+		$this->data['entry_option_value'] = $this->language->get('entry_option_value');
+		$this->data['entry_required'] = $this->language->get('entry_required');
+		$this->data['entry_sort_order'] = $this->language->get('entry_sort_order');
+		$this->data['entry_status'] = $this->language->get('entry_status');
+		$this->data['entry_customer_group'] = $this->language->get('entry_customer_group');
+		$this->data['entry_date_start'] = $this->language->get('entry_date_start');
+		$this->data['entry_date_end'] = $this->language->get('entry_date_end');
+		$this->data['entry_priority'] = $this->language->get('entry_priority');
+		$this->data['entry_tag'] = $this->language->get('entry_tag');
+		$this->data['entry_customer_group'] = $this->language->get('entry_customer_group');
+		$this->data['entry_reward'] = $this->language->get('entry_reward');
+		$this->data['entry_layout'] = $this->language->get('entry_layout');
+				
     	$this->document->setTitle($this->language->get('heading_title')); 
 		
 		$this->load->model('catalog/product');
@@ -588,7 +633,152 @@ public function insert() {
 
 
 	private function getForm() {
-          	$this->data['breadcrumbs'] = array();
+   
+		$this->data['heading_title'] = $this->language->get('heading_title');
+			
+    	$this->data['text_enabled'] = $this->language->get('text_enabled');
+    	$this->data['text_disabled'] = $this->language->get('text_disabled');
+    	$this->data['text_none'] = $this->language->get('text_none');
+    	$this->data['text_yes'] = $this->language->get('text_yes');
+    	$this->data['text_no'] = $this->language->get('text_no');
+		$this->data['text_select_all'] = $this->language->get('text_select_all');
+		$this->data['text_unselect_all'] = $this->language->get('text_unselect_all');
+		$this->data['text_plus'] = $this->language->get('text_plus');
+		$this->data['text_minus'] = $this->language->get('text_minus');
+		$this->data['text_default'] = $this->language->get('text_default');
+		$this->data['text_image_manager'] = $this->language->get('text_image_manager');
+		$this->data['text_option'] = $this->language->get('text_option');
+		$this->data['text_option_value'] = $this->language->get('text_option_value');
+		$this->data['text_select'] = $this->language->get('text_select');
+		$this->data['text_none'] = $this->language->get('text_none');
+		$this->data['text_percent'] = $this->language->get('text_percent');
+		$this->data['text_amount'] = $this->language->get('text_amount');
+
+		$this->data['entry_name'] = $this->language->get('entry_name');
+		$this->data['entry_meta_description'] = $this->language->get('entry_meta_description');
+		$this->data['entry_meta_keyword'] = $this->language->get('entry_meta_keyword');
+		$this->data['entry_description'] = $this->language->get('entry_description');
+		$this->data['entry_store'] = $this->language->get('entry_store');
+		$this->data['entry_keyword'] = $this->language->get('entry_keyword');
+    	$this->data['entry_model'] = $this->language->get('entry_model');
+		$this->data['entry_sku'] = $this->language->get('entry_sku');
+		$this->data['entry_upc'] = $this->language->get('entry_upc');
+		$this->data['entry_location'] = $this->language->get('entry_location');
+		$this->data['entry_minimum'] = $this->language->get('entry_minimum');
+		$this->data['entry_manufacturer'] = $this->language->get('entry_manufacturer');
+    	$this->data['entry_shipping'] = $this->language->get('entry_shipping');
+    	$this->data['entry_date_available'] = $this->language->get('entry_date_available');
+    	$this->data['entry_quantity'] = $this->language->get('entry_quantity');
+		$this->data['entry_stock_status'] = $this->language->get('entry_stock_status');
+    	$this->data['entry_tax_class'] = $this->language->get('entry_tax_class');
+    	$this->data['entry_price'] = $this->language->get('entry_price');
+		$this->data['entry_points'] = $this->language->get('entry_points');
+		$this->data['entry_option_points'] = $this->language->get('entry_option_points');
+		$this->data['entry_subtract'] = $this->language->get('entry_subtract');
+    	$this->data['entry_weight_class'] = $this->language->get('entry_weight_class');
+    	$this->data['entry_weight'] = $this->language->get('entry_weight');
+		$this->data['entry_dimension'] = $this->language->get('entry_dimension');
+		$this->data['entry_length'] = $this->language->get('entry_length');
+    	$this->data['entry_image'] = $this->language->get('entry_image');
+    	$this->data['entry_download'] = $this->language->get('entry_download');
+    	$this->data['entry_category'] = $this->language->get('entry_category');
+		$this->data['entry_related'] = $this->language->get('entry_related');
+		$this->data['entry_attribute'] = $this->language->get('entry_attribute');
+		$this->data['entry_text'] = $this->language->get('entry_text');
+		$this->data['entry_option'] = $this->language->get('entry_option');
+		$this->data['entry_option_value'] = $this->language->get('entry_option_value');
+		$this->data['entry_required'] = $this->language->get('entry_required');
+		$this->data['entry_sort_order'] = $this->language->get('entry_sort_order');
+		$this->data['entry_status'] = $this->language->get('entry_status');
+		$this->data['entry_customer_group'] = $this->language->get('entry_customer_group');
+		$this->data['entry_date_start'] = $this->language->get('entry_date_start');
+		$this->data['entry_date_end'] = $this->language->get('entry_date_end');
+		$this->data['entry_priority'] = $this->language->get('entry_priority');
+		$this->data['entry_tag'] = $this->language->get('entry_tag');
+		$this->data['entry_customer_group'] = $this->language->get('entry_customer_group');
+		$this->data['entry_reward'] = $this->language->get('entry_reward');
+		$this->data['entry_layout'] = $this->language->get('entry_layout');
+				
+    	$this->data['button_save'] = $this->language->get('button_save');
+    	$this->data['button_cancel'] = $this->language->get('button_cancel');
+		$this->data['button_add_attribute'] = $this->language->get('button_add_attribute');
+		$this->data['button_add_option'] = $this->language->get('button_add_option');
+		$this->data['button_add_option_value'] = $this->language->get('button_add_option_value');
+		$this->data['button_add_discount'] = $this->language->get('button_add_discount');
+		$this->data['button_add_special'] = $this->language->get('button_add_special');
+		$this->data['button_add_image'] = $this->language->get('button_add_image');
+		$this->data['button_remove'] = $this->language->get('button_remove');
+		
+    	$this->data['tab_general'] = $this->language->get('tab_general');
+    	$this->data['tab_data'] = $this->language->get('tab_data');
+		$this->data['tab_attribute'] = $this->language->get('tab_attribute');
+		$this->data['tab_option'] = $this->language->get('tab_option');		
+		$this->data['tab_discount'] = $this->language->get('tab_discount');
+		$this->data['tab_special'] = $this->language->get('tab_special');
+    	$this->data['tab_image'] = $this->language->get('tab_image');		
+		$this->data['tab_links'] = $this->language->get('tab_links');
+		$this->data['tab_reward'] = $this->language->get('tab_reward');
+		$this->data['tab_design'] = $this->language->get('tab_design');
+		 
+ 		if (isset($this->error['warning'])) {
+			$this->data['error_warning'] = $this->error['warning'];
+		} else {
+			$this->data['error_warning'] = '';
+		}
+
+ 		if (isset($this->error['name'])) {
+			$this->data['error_name'] = $this->error['name'];
+		} else {
+			$this->data['error_name'] = '';
+		}
+
+ 		if (isset($this->error['meta_description'])) {
+			$this->data['error_meta_description'] = $this->error['meta_description'];
+		} else {
+			$this->data['error_meta_description'] = array();
+		}		
+   
+   		if (isset($this->error['description'])) {
+			$this->data['error_description'] = $this->error['description'];
+		} else {
+			$this->data['error_description'] = array();
+		}	
+		
+   		if (isset($this->error['model'])) {
+			$this->data['error_model'] = $this->error['model'];
+		} else {
+			$this->data['error_model'] = '';
+		}		
+     	
+    	if (isset($this->request->post['price'])) {
+      		$this->data['price'] = $this->request->post['price'];
+    	}  else {
+      		$this->data['price'] = '';
+    	}
+			
+    	if (isset($this->request->post['quantity'])) {
+      		$this->data['quantity'] = $this->request->post['quantity'];
+    	} else {
+			$this->data['quantity'] = 1;
+		}			
+			
+
+    	if (isset($this->request->post['weight'])) {
+      		$this->data['weight'] = $this->request->post['weight'];
+		} else {
+      		$this->data['weight'] = '';
+    	} 
+		$this->load->model('localisation/weight_class');
+		
+		$this->data['weight_classes'] = $this->model_localisation_weight_class->getWeightClasses();						
+		if (isset($this->error['date_available'])) {
+			$this->data['error_date_available'] = $this->error['date_available'];
+		} else {
+			$this->data['error_date_available'] = '';
+		}	
+
+
+       	$this->data['breadcrumbs'] = array();
 
       	$this->data['breadcrumbs'][] = array(
         	'text'      => $this->language->get('text_home'),
@@ -603,14 +793,57 @@ public function insert() {
       	);
 
 
-		$this->data['heading_title'] = $this->language->get('heading_title');
-			
+
+		$url = '';
+
+		if (isset($this->request->get['filter_name'])) {
+			$url .= '&filter_name=' . $this->request->get['filter_name'];
+		}
+		
+		if (isset($this->request->get['filter_model'])) {
+			$url .= '&filter_model=' . $this->request->get['filter_model'];
+		}
+		
+		if (isset($this->request->get['filter_price'])) {
+			$url .= '&filter_price=' . $this->request->get['filter_price'];
+		}
+		
+		if (isset($this->request->get['filter_quantity'])) {
+			$url .= '&filter_quantity=' . $this->request->get['filter_quantity'];
+		}	
+		
+		if (isset($this->request->get['filter_status'])) {
+			$url .= '&filter_status=' . $this->request->get['filter_status'];
+		}
+								
+		if (isset($this->request->get['sort'])) {
+			$url .= '&sort=' . $this->request->get['sort'];
+		}
+
+		if (isset($this->request->get['order'])) {
+			$url .= '&order=' . $this->request->get['order'];
+		}
+		
+		if (isset($this->request->get['page'])) {
+			$url .= '&page=' . $this->request->get['page'];
+		}		
 		if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/product/product_form.tpl')) {
 			$this->template = $this->config->get('config_template') . '/template/product/product_form.tpl';
 		} else {
 			$this->template = 'default/template/product/product_form.tpl';
 		}
 		
+		
+		if (isset($this->request->post['product_description'])) {
+			$this->data['product_description'] = $this->request->post['product_description'];
+		}
+		
+		if (isset($this->request->post['model'])) {
+      		$this->data['model'] = $this->request->post['model'];
+    	} else {
+      		$this->data['model'] = '';
+    	}		
+				
 		$this->children = array(
 			'common/column_left',
 			'common/column_right',
